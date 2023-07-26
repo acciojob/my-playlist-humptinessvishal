@@ -1,4 +1,15 @@
 /*  your css code here. If applicable */
-*{
+body{
 	background-color: #cccccc;
+}
+p{
+	text-align: center;
+}
+.player_one{
+	background-color: white;
+	padding: 10px;
+}
+.player_two{
+	background-color: white;
+	
 }
